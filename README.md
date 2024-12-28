@@ -84,4 +84,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Original GAN Paper](https://arxiv.org/abs/1406.2661)
 - [Age Progression Techniques](https://example.com/age-progression)
 - [Facial Reconstruction Methods](https://example.com/facial-reconstruction)
-# Enhanced-Age-Progression-for-Locating-Missing-Children-using-GAN
